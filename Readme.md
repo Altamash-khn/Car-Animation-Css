@@ -4,7 +4,7 @@ This project demonstrates a simple car animation using HTML and CSS.
 
 ## Preview
 
-You can see the animation live <a href="https://car-animation-altamash.netlify.app/" target="_blank">HERE</a>.
+You can see the animation live <a href="https://car-animation-css.vercel.app/" target="_blank">HERE</a>.
 
 ## How It Works
 
